@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+### [科学用脑](http://www.jianshu.com/p/fdbaf8ced079)
 
-You can use the [editor on GitHub](https://github.com/2010wuhao/study.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1、广泛阅读和学习，提高自己的知识容量，学习是有马太效应的；四年级现象。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、不要总是停留在舒适区，大脑在舒适区是不会思考的，然而大脑的记忆是思考后的产物；
 
-### Markdown
+3、学习是原有经验的迁移，但是迁移是有前提的：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 研究当前案例，并且收集相似的案例，总结和抽象出这一类案例的解决办法；
+- 在具体情景中学习，加入“如果--怎么办”类问题，或者问自己："如果改变问题的某一部分怎么办?";
+- 尝试思考不仅能解决单一问题，还能解决整个相关类群问题的方法，例如：思考如何做好自己的公司，不如思考如何管理好十个公司；
+- 总之要想知识大范围迁移，必须在更高的抽象层面上表征问题，也就是抽象出原理性的知识；
+- 
+4、学习如何学习；学习-学习-再学习。要学会如何学习再去学习，方法是错误的再努力也是徒劳，所以多留时间让自己静下来思考。
 
-```markdown
-Syntax highlighted code block
+### [改变自己](http://note.youdao.com/noteshare?id=ea8cf75513467f5f537d88562cdaa1b9)
 
-# Header 1
-## Header 2
-### Header 3
+如果一个人的思想认知改变不了，即使重头再来也照样改变不了命运
 
-- Bulleted
-- List
+- 不随意评判他人。一旦评判，便是起心动念；
+- 不受他人影响。学习荷花和荷叶的“不粘附”，多少水朝你泼来，都无法打湿你；
+- 不揣测他人的想法。始终牢记一点就是“我该怎么做”，不想其他。一旦揣测，就会轻举、妄动、胡说，各种混乱的情绪就会蜂拥而至；
+- 凡事尽力而为。面对眼前的事情，唯一需要关心的是自己是否在尽力为之，而不去追问是谁干扰了我，什么因素在影响自己。
 
-1. Numbered
-2. List
+大家也许会说这太难了，但是改变命运本身是极难的，没有决绝的勇气和卓绝的努力，别妄想也别奢言“改变命运”，听天由命就是了。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+### 新知识
+
+- [ ] Python
+- [ ] Kotlin 
+- [知乎](https://www.zhihu.com/question/37288009/answer/172132665)
+- [ ] RN
+- [ ] Node.js 
+- [理解node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)     
+- [How to node](https://howtonode.org/)
+- [node.js 入门](http://www.kancloud.cn/thinkphp/node-beginner)
+- [七天系列](http://www.kancloud.cn/kancloud/seven-days-nodejs/43580)
+
+### 如何学习一门新语言
+
+程序=数据结构+算法
+
+编程语言学习分为：语法学习 + 程序设计思想 + 数据结构和算法。
+
 ```
+graph TD
+A[如何学习一门语言] -->B[学习方法]
+B[学习方法] -->I[理解这门语言的本质原理]
+B[学习方法] -->J[抓几个描述这门语言的概念理解]
+B[学习方法] -->K[学习api]
+B[学习方法] -->L[实际例子学习]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+A[如何学习一门语言] -->C[语言的运行环境]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2010wuhao/study.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A[如何学习一门语言] -->D[语言的运行过程]
 
-### Support or Contact
+A[如何学习一门语言] -->E[语言的构成]
+E[语言的构成] -->F[语言的核心概念]
+E[语言的构成] -->G[语言的特性]
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+G[语言的特性] --> M[数据类型]
+G[语言的特性] --> N[函数编写]
+G[语言的特性] --> O[类与对象]
+G[语言的特性法] --> P[逻辑和循环 if for...]
+G[语言的特性] --> Q[输入输出]
+G[语言的特性] --> R[文件操作]
+G[语言的特性] --> S[递归]
+G[语言的特性] --> T[垃圾回收]
+G[语言的特性] --> U[Lambda函数]
+G[语言的特性] --> V[面向对象]
+G[语言的特性] --> H[指针算术]
+
+```
